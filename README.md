@@ -9,10 +9,12 @@ I'm **suyiiyii**, A first-year university students form Guangdong University of 
 - 🤔 I'm looking for an **internship**.
 - 📓 Welcome to my bolg! https://suyiiyii.top/
 - 📫 How to reach me **suyiiyii@gmail.com**.
+
+#### My Stack
 #### DevOps
 ##### CI
 ![Github Action](https://img.shields.io/badge/github_actions-24292f?style=for-the-badge&logo=githubactions)
-![Gitlab CI](https://img.shields.io/badge/gitlab-24292f?style=for-the-badge&logo=gitlab)
+![Gitlab CI](https://img.shields.io/badge/gitlab_CI-24292f?style=for-the-badge&logo=gitlab)
 
 ##### CD
 ![Docker](https://img.shields.io/badge/Docker-2395EB?style=for-the-badge&logo=docker&logoColor=white)
