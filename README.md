@@ -48,10 +48,11 @@ I'm **suyiiyii**, A first-year university students form Guangdong University of 
 
 ### Do you know?
 
-- I'm a former **OI** and **ACM** competitor, who more like development so **I give them up**.
+- I used to be an **OI** and **ACM** competitor, but preferred development, so I dropped them.
 - I've been **learning programming** since elementary school
 - I **manage** more than a dozen **Linux servers** on a daily basis.
 - I'm an **automation** fiend and want to automate all the tedious tasks.
+- I love playing Factorio and DSP.
 
 <!--
 **suyiiyii/suyiiyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
