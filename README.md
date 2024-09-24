@@ -7,7 +7,7 @@ I'm **suyiiyii**, A first-year university students form Guangdong University of 
 - 🍀 I'm interested in **cloud-native development**
 - 😄 I'm aspiring to become a **cloud-native development engineer**.
 - 🤔 I'm looking for an **internship**.
-- 📓 Welcome to my bolg! https://suyiiyii.top/
+- 📓 Welcome to my blog! https://suyiiyii.top/
 - 📫 How to reach me **suyiiyii@gmail.com**.
 
 #### My Stack
