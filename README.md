@@ -1,7 +1,7 @@
 ## Hey! Nice to see you. 👋
 Welcome to my page! 
 
-I'm **suyiiyii**, A first-year university students form Guangdong University of Technology
+I'm **suyiiyii**, A sophomore at Guangdong University of Technology
 
 - 🌱 I'm currently learning **back-end development**
 - 🍀 I'm interested in **cloud-native development**
@@ -51,7 +51,7 @@ I'm **suyiiyii**, A first-year university students form Guangdong University of 
 - I used to be an **OI** and **ACM** competitor, but preferred development, so I dropped them.
 - I've been **learning programming** since elementary school
 - I **manage** more than a dozen **Linux servers** on a daily basis.
-- I'm an **automation** fiend and want to automate all the tedious tasks.
+- I'm an **automation** enthusiast and want to automate all the tedious tasks.
 - I love playing Factorio and DSP.
 
 <!--
