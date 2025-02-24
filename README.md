@@ -17,27 +17,28 @@ I'm **suyiiyii**, A sophomore at Guangdong University of Technology
 ![Gitlab CI](https://img.shields.io/badge/gitlab_CI-24292f?style=for-the-badge&logo=gitlab)
 
 ##### CD
-![Docker](https://img.shields.io/badge/Docker-2395EB?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2395EB?style=for-the-badge&logo=docker&logoColor=white)
 
-![Helm](https://img.shields.io/badge/Helm-24292f?style=for-the-badge&logo=helm)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-24292f?style=for-the-badge&logo=argo)
+![Helm](https://img.shields.io/badge/Helm-24292f?style=for-the-badge&logo=helm)
 ![ACR](https://img.shields.io/badge/ACR-24292f?style=for-the-badge&logo=alibabacloud)
 
 #### Programming Language
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-79d4fd?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### IDEs / Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Goland](https://img.shields.io/badge/goland-000000.svg?style=for-the-badge&logo=goland&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
 #### Operating System
 
